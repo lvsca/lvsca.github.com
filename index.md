@@ -1,10 +1,3 @@
-<!-- wrapper -->
-<div id:"wrapper">
-
-
-<!-- header -->
-<div id:"header>
-<h1><a href:"index.xml>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lvsca/lvsca.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
